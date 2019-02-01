@@ -1,5 +1,6 @@
 [![crates.io](http://meritbadge.herokuapp.com/wayland-client)](https://crates.io/crates/wayland-client)
 [![Build Status](https://travis-ci.org/Smithay/wayland-rs.svg?branch=master)](https://travis-ci.org/Smithay/wayland-rs)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/Smithay/wayland-rs/rav1e?branch=master&svg=true)](https://ci.appveyor.com/project/Smithay/wayland-rs)
 [![codecov](https://codecov.io/gh/Smithay/wayland-rs/branch/master/graph/badge.svg)](https://codecov.io/gh/Smithay/wayland-rs)
 
 # Wayland rust crates
